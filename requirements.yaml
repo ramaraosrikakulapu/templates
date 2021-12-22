@@ -1,0 +1,4 @@
+dependencies:
+  - name: agent
+    version: {{agent_helm_version}}
+    repository: "https://raw.githubusercontent.com/EC-Release/helmcharts/disty/agent/{{agent_helm_version}}"
